@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Disallow: /lib/
+
+Disallow: /node_modules/
+Disallow: /scaffolds/
+Disallow: /themes/
+Disallow: /.git/
+
+Sitemap: https://flyingcane.github.io/sitemap.xml
+Sitemap: https://flyingcane.github.io/baidusitemap.xml
